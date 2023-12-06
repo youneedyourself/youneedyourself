@@ -14,8 +14,7 @@ I am currently a final year student at Hue University of Sciences. My major is I
 
 ## Get in touch :coffee:
 
-- Your future employee on [LinkedIn](https://www.linkedin.com/in/nam-nguyen-hoai-034812252/)
-
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/youneedyourself)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/nam-nguyen-hoai-034812252/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/hoainam2207)  
 <!--
 **youneedyourself/youneedyourself** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
