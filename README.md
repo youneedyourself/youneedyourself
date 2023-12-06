@@ -1,4 +1,8 @@
-### Hi there 👋
+### 😄 Hi there 
+
+**'Information and Technology (AI)'**
+
+I am currently a final year student at Hue University of Sciences. My major is Information Technology and my research field is Artificial Intelligence. All coding projects are built to solve real problemswith code and to learn and improve my AI skills.
 
 <!--
 **youneedyourself/youneedyourself** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
