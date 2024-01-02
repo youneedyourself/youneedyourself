@@ -10,6 +10,7 @@ I am currently a final year student at Hue University of Sciences. My major is I
 * 📱Flutter
 * 🔎AI Research
 * ⌨Latex
+  
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=youneedyourself)](https://github.com/anuraghazra/github-readme-stats)
 
 <p align="center"> 
